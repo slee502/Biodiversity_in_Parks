@@ -9,6 +9,22 @@ This project is to examine the biodiversity in U.S. national parks and gain insi
 - Which species are extinct/highly endangered?
 - Which park has the highest/lowest number of endangered species? 
 
+## CODE LOUISVILLE PROJECT FEATURES
+**Feature 1: Read data in.**
+- Read in data from two CSVs.
+
+**Feature 2: Manipulate and clean your data.**
+- Used built-in pandas. 
+
+**Feature 3: Analyze your data.**
+- Used built-in Python functions and Pandas.
+
+**Feature 4: Visualize your data.**
+- Made 2 basic plots with matplotlib.
+
+**Feature 5: Interpret your data and graphical output.**
+- Wrote markdown cells in Jupyter explaining thought process and code.
+
 ## FILES
 Data was retrieved from Kaggle (www.kaggle.com) on 3/2/2023. It consists of two files:
 - parks.csv which contains basic information for each park including name, location, and size.
@@ -26,7 +42,10 @@ The necessary dependencies to run this project are as follows:
 - Install the necessary dependencies by running the following command: ```pip install -r requirements.txt```.
 
 ## USAGE
+**Run in Jupyter Notebook**
 - Launch Jupyter Notebook by running the following: ```jupyter notebook```.
 - Open Bioodiversity_Project.ipynb.
-- Click cell tab and then Run All.
+- Click Cell tab and then Run All.
+
+
 
