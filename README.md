@@ -38,14 +38,19 @@ The necessary dependencies to run this project are as follows:
 - pandas==1.5.3
 
 ### INSTALLATION
-- Clone the repository. 
+- Open a terminal and clone the repository. 
 - Install the necessary dependencies by running the following command: ```pip install -r requirements.txt```.
 
 ## USAGE
 **Run in Jupyter Notebook**
-- Launch Jupyter Notebook by running the following: ```jupyter notebook```.
-- Open Bioodiversity_Project.ipynb.
-- Click Cell tab and then Run All.
+- In a terminal, navigate to the directory that contains the cloned files.
+- Launch Jupyter Notebook by typing ```jupyter notebook```.
+- In the Jupyter Notebook environment, click on Biodiversity_Project.ipynb.
+- Click "Kernel" in the top menu bar and select "Restart and Run All."
 
+**Run in Python**
+- Open the saved repository in your IDE or terminal.
+- Run the Biodiversity_Project.py file.
+- 
 
 
