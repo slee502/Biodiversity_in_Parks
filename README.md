@@ -6,8 +6,8 @@ This project is to examine the biodiversity in U.S. national parks and gain insi
 - Which parks have the most biodiversity?
 - Is there a relationship between park size and biodiversity?
 - Which category of species is the most/least observed in the parks?
-- Which category of species has the highest/lowest number of Endangered status observations?
-- Which park has the highest/lowest number of Endangered species?
+- Which park has the highest/lowest number of endangered species?
+- What is the relationship between Nativeness and the Conservation Status?
 
 ## CODE LOUISVILLE PROJECT FEATURES
 **Feature 1: Read data in.**
