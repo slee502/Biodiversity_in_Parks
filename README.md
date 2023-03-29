@@ -14,13 +14,13 @@ This project is to examine the biodiversity in U.S. national parks and gain insi
 - Read in data from two CSVs.
 
 **Feature 2: Manipulate and clean your data.**
-- Used built-in pandas. 
+- Used built-in pandas: merge(), drop_duplicates(), sort_values(), groupby(), isnull(), fillna().
 
 **Feature 3: Analyze your data.**
-- Used built-in Python functions and Pandas.
+- Used built-in Python functions: value_counts(), len(), min(), max(), info(), head(), shape().
 
 **Feature 4: Visualize your data.**
-- Made 2 basic plots with matplotlib.
+- Made 2 basic plots (bar chart and scatterplot) with matplotlib.
 
 **Feature 5: Interpret your data and graphical output.**
 - Wrote markdown cells in Jupyter explaining thought process and code.
@@ -51,6 +51,5 @@ The necessary dependencies to run this project are as follows:
 **Run in Python**
 - Open the saved repository in your IDE or terminal.
 - Run the Biodiversity_Project.py file.
-- 
 
 
