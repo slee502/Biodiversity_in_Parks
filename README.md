@@ -39,17 +39,19 @@ The necessary dependencies to run this project are as follows:
 
 ### INSTALLATION
 - Open a terminal and clone the repository. 
-- Install the necessary dependencies by running the following command: ```pip install -r requirements.txt```.
+- Install the necessary dependencies by running the following command: ```pip install -r requirements.txt```
 
 ## USAGE
 **Run in Jupyter Notebook**
+After following the Installation instructions above:
 - In a terminal, navigate to the directory that contains the cloned files.
 - Launch Jupyter Notebook by typing ```jupyter notebook```.
 - In the Jupyter Notebook environment, click on Biodiversity_Project.ipynb.
 - Click "Kernel" in the top menu bar and select "Restart and Run All."
 
-**Run in Python**
-- Open the saved repository in your IDE or terminal.
-- Run the Biodiversity_Project.py file.
+**Run in Visual Studio Code**
+After following the Installation instructions above:
+- Open the saved repository Visual Studio Code.
+- Run the Biodiversity_Project.ipynb file.
 
 
