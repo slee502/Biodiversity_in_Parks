@@ -1,6 +1,6 @@
 # Biodiversity in Parks
 ## INTRODUCTION
-This project is to examine the biodiversity in U.S. national parks and gain insights from it.
+This project aims to explore and analyze the biodiversity of U.S. national parks.
 
 **Questions:**
 - Which parks have the most biodiversity?
