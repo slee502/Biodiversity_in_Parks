@@ -29,7 +29,7 @@ The insights uncovered in this exploratory data analysis could potentially be us
 - Wrote markdown cells in Jupyter explaining thought process and code.
 
 ## FILES
-Data was retrieved from Kaggle (www.kaggle.com) on 3/2/2023. It consists of two files:
+Data was retrieved from Kaggle at https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity on 3/2/2023. It consists of two files:
 - parks.csv which contains basic information for each park including name, location, and size.
 - species.csv which contains species information for each park, including the category name, scientific name, common name, abundance, and conservation status.
 
@@ -45,14 +45,14 @@ The necessary dependencies to run this project are as follows:
 - Install the necessary dependencies by running the following command: ```pip install -r requirements.txt```
 
 ## USAGE
-**Run in Jupyter Notebook**
+**Run in Jupyter Notebook**  
 After following the Installation instructions above:
 - In a terminal, navigate to the directory that contains the cloned files.
 - Launch Jupyter Notebook by typing ```jupyter notebook```.
 - In the Jupyter Notebook environment, click on Biodiversity_Project.ipynb.
 - Click "Kernel" in the top menu bar and select "Restart and Run All."
 
-**Run in Visual Studio Code**
+**Run in Visual Studio Code**  
 After following the Installation instructions above:
 - Open the saved repository Visual Studio Code.
 - Run the Biodiversity_Project.ipynb file.
