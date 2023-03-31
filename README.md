@@ -23,7 +23,7 @@ The insights uncovered in this exploratory data analysis could potentially be us
 - Other functions used include head() and value_counts().
 
 **Feature 4: Visualize your data.**
-- Made 2 basic plots (bar chart and scatterplot) with matplotlib.
+- Made 2 basic plots (multiple bar charts and a scatterplot) with matplotlib.
 
 **Feature 5: Interpret your data and graphical output.**
 - Wrote markdown cells in Jupyter explaining thought process and code.
