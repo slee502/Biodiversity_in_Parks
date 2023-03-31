@@ -20,7 +20,7 @@ The insights uncovered in this exploratory data analysis could potentially be us
 
 **Feature 3: Analyze your data.**
 - Used at least 5 built-in Python functions to find out something about the data: sum(), len(), max(), min(), shape.
-- Other funtions used include head() and value_counts().
+- Other functions used include head() and value_counts().
 
 **Feature 4: Visualize your data.**
 - Made 2 basic plots (bar chart and scatterplot) with matplotlib.
