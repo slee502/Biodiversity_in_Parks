@@ -1,23 +1,26 @@
 # Biodiversity in Parks
 ## INTRODUCTION
-This project aims to explore and analyze the biodiversity of U.S. national parks.
+This project aims to explore and analyze the biodiversity of U.S. national parks. The following questions will be answered:
 
-**Questions:**
-- Which parks have the most biodiversity?
-- Is there a relationship between park size and biodiversity?
-- Which category of species is the most/least observed in the parks?
-- Which park has the highest/lowest number of endangered species?
-- What is the relationship between Nativeness and the Conservation Status?
+-	Which parks have the most/least biodiversity?
+-	Is there a relationship between park size and biodiversity?
+-	Which category of species is the most/least observed in the parks?
+-	Which category of species is present in maximum/minimum number for each park?
+-	Which park has the highest number of endangered species?
+-	What is the relationship between Nativeness and the Conservation Status?
+
+The insights uncovered in this exploratory data analysis could potentially be useful for understanding the current state of biodiversity in U.S. national parks and helping to make decisions about park management and conservation.
 
 ## CODE LOUISVILLE PROJECT FEATURES
 **Feature 1: Read data in.**
 - Read in data from two CSVs.
 
 **Feature 2: Manipulate and clean your data.**
-- Used built-in pandas: merge(), drop_duplicates(), sort_values(), groupby(), isnull(), fillna().
+- Used built-in pandas: merge(), drop_duplicates(), sort_values(), groupby(), isnull(), fillna(), count(), duplicated().
 
 **Feature 3: Analyze your data.**
-- Used built-in Python functions: value_counts(), len(), min(), max(), info(), head(), shape().
+- Used at least 5 built-in Python functions to find out something about the data: sum(), len(), max(), min(), shape.
+- Other funtions used include head() and value_counts().
 
 **Feature 4: Visualize your data.**
 - Made 2 basic plots (bar chart and scatterplot) with matplotlib.
