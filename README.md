@@ -54,7 +54,7 @@ After following the Installation instructions above:
 
 **Run in Visual Studio Code**  
 After following the Installation instructions above:
-- Open the saved repository Visual Studio Code.
+- Open the saved repository in Visual Studio Code.
 - Run the Biodiversity_Project.ipynb file.
 
 
